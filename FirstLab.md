@@ -1,5 +1,6 @@
 ## First CSE15L Lab [2024/1/11]
-[Syntax page reference](https://commonmark.org/help/)
+[Syntax page reference](https://commonmark.org/help/)  
+
 [Course note](https://ucsd-cse15l-w24.github.io/)
 
 # Screenshot
