@@ -5,12 +5,15 @@
 For each of the commands cd, ls, and cat, and using the workspace you created in this lab:
 
 * Share an example of using the command with no arguments.
+![Image](<img width="379" alt="스크린샷 2024-01-11 오전 9 38 18" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/439c78b4-91d8-4f6c-866d-a245939825ce">
+)
 
 * Share an example of using the command with a path to a directory as an argument.
+![Image](<img width="353" alt="스크린샷 2024-01-11 오전 9 38 34" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/3f1f00db-7920-4bb0-8873-ed9a3c678117">
+)
 * Share an example of using the command with a path to a file as an argument.
+![Image](<img width="442" alt="스크린샷 2024-01-11 오전 9 38 48" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/663799b9-9167-4300-87d7-24fb318dcb30">)
 
-
-![Image](<img width="391" alt="스크린샷 2024-01-11 오전 9 36 42" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/cee2011d-c5c7-4ebe-83dc-5e6d3056fde7">)
 
 ```
 {
