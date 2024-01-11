@@ -1,6 +1,8 @@
 ## First CSE15L Lab  2024/1/11
 [Course note](https://ucsd-cse15l-w24.github.io/)
 
+[Syntax reference](https://commonmark.org/help/)
+
 # Syntax
 "*Italic*	_Italic_	Italic"
 "**Bold**	__Bold__	Bold"
