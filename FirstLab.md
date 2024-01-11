@@ -1,10 +1,9 @@
 ## First CSE15L Lab  2024/1/11
 [Course note](https://ucsd-cse15l-w24.github.io/)
 
-#Syntax
-
-*Italic*	_Italic_	Italic
-**Bold**	__Bold__	Bold
+# Syntax
+"*Italic*	_Italic_	Italic"
+"**Bold**	__Bold__	Bold"
 # Heading 1	Heading 1
 =========	
 Heading 1
