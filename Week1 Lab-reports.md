@@ -14,6 +14,7 @@ For each of the commands cd, ls, and cat, and using the workspace you created in
 * Share an example of using the command with a path to a file as an argument.
 ![Image](<img width="442" alt="스크린샷 2024-01-11 오전 9 38 48" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/663799b9-9167-4300-87d7-24fb318dcb30">)
 
+![Image](<img width="442" alt="스크린샷 2024-01-11 오전 9 38 48" src="https://github.com/shareinfocode/cse15l-lab-reports/assets/137489039/663799b9-9167-4300-87d7-24fb318dcb30">)
 
 ```
 {
